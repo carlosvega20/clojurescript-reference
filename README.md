@@ -5,7 +5,7 @@ clojurescript-reference
 
 notes to myself on working with ClojureScript especially wrt Reagent
 
-https://github.com/savaki/clojurescript-reference
+ http://clojurescript-reference.mattho.com/
 
 ## Prerequisites
 
